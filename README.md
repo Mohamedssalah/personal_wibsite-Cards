@@ -1,5 +1,5 @@
 ## Personal-Website
- This project was created to enhance my skills in HTML, CSS, Flexbox, CSS Grid, and SASS. The challenge was to build a responsive web page that adheres to the design specifications provided by Frontend Mentor.
+ This project was created to enhance my skills in HTML, CSS, Flexbox, CSS Grid, and SASS. The challenge was to build a responsive web page that adheres to the design specifications provided .
 
 ## Live Demo
 
@@ -11,11 +11,6 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Mohamedssalah/
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd frontend-mentor-challenge
     ```
 
 3. **Open `index.html` in your browser** to view the project.
